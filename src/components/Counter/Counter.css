@@ -1,0 +1,17 @@
+.Button{ 
+  border: none;
+  background-color:transparent;
+  height: 100%;
+  font-size: larger;
+  color: red;
+  cursor: pointer;
+}
+
+.disableButton{
+  border: none;
+  background-color:transparent;
+  height: 100%;
+  font-size: larger;
+  color: rgb(105,105,105);
+  cursor: pointer;
+}
